@@ -15,4 +15,6 @@ public class Main {
         System.out.println(w.toUpperCase());
         System.out.println(a.trim());
     }
+//    Өзгөрүү болду
+
 }
